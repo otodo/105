@@ -1,0 +1,9 @@
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Debug\105bank.exe
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Debug\105bank.pdb
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\_105bank.Properties.Resources.resources
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\105bank.exe
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\105bank.pdb
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Debug\_105bank.Hyakugo.resources

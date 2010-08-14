@@ -1,0 +1,14 @@
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Release\105bank.exe
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Release\105bank.pdb
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\ResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\_105bank.Hyakugo.resources
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\_105bank.Properties.Resources.resources
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\GenerateResource.read.1.tlog
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\GenerateResource.write.1.tlog
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\105bank.exe
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\105bank.pdb
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Release\105bank.exe.manifest
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\bin\Release\105bank.application
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\105bank.TrustInfo.xml
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\105bank.exe.manifest
+d:\mydocuments\visual studio 2010\Projects\105bank\105bank\obj\x86\Release\105bank.application
